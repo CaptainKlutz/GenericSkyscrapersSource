@@ -1,1 +1,193 @@
+##grflangid 0x01
+# This is the English language file
 
+# GRF name and description definitions
+STR_GRF_NAME        :{TITLE} {VERSION}
+STR_GRF_DESCRIPTION :{TITLE} provides many skyscrapers from various origins, decades and styles as objects to help add extra flair to your cities.{}v{VERSION}, last updated March 2020.{}Made by CaptainKlutz. Original GRF (California City Set) by Luxtram.{}License: GPL v2
+
+#Group Names
+STR_GSLA            :Generic Skyscraper Objects: Los Angeles
+STR_GSSD            :Generic Skyscraper Objects: San Diego
+STR_GSSF            :Generic Skyscraper Objects: San Francisco
+STR_GSFB            :Generic Skyscraper Objects: San Francisco Blocks
+
+#Building Strings
+
+
+STR_LA_1A           : Los Angeles Skyscraper 1 (a)
+STR_LA_1A_PURCHASE  : 
+STR_LA_1B           : Los Angeles Skyscraper 1 (b)
+STR_LA_1B_PURCHASE  : 
+STR_LA_2            : Los Angeles Skyscraper 2
+STR_LA_2_PURCHASE   :  
+STR_LA_3            : Los Angeles Skyscraper 3
+STR_LA_3_PURCHASE   :  
+STR_LA_4            : Los Angeles Skyscraper 4
+STR_LA_4_PURCHASE   :  
+STR_LA_5A           : Los Angeles Skyscraper 5 (a)
+STR_LA_5A_PURCHASE  :  
+STR_LA_5B           : Los Angeles Skyscraper 5 (b)
+STR_LA_5B_PURCHASE  :  
+STR_LA_6            : Los Angeles Skyscraper 6
+STR_LA_6_PURCHASE   :  
+STR_LA_7            : Los Angeles Skyscraper 7
+STR_LA_7_PURCHASE   :  
+STR_LA_8            : Los Angeles Skyscraper 8
+STR_LA_8_PURCHASE   :  
+STR_LA_9            : Los Angeles Skyscraper 9
+STR_LA_9_PURCHASE   :  
+STR_LA_10           : Los Angeles Skyscraper 10
+STR_LA_10_PURCHASE  :  
+STR_LA_11           : Los Angeles Skyscraper 11
+STR_LA_11_PURCHASE  : 
+STR_LA_12           : Los Angeles Skyscraper 12
+STR_LA_12_PURCHASE  :  
+STR_LA_13           : Los Angeles Skyscraper 13
+STR_LA_13_PURCHASE  :  
+STR_LA_14           : Los Angeles Skyscraper 14
+STR_LA_14_PURCHASE  :  
+STR_LA_15           : Los Angeles Skyscraper 15
+STR_LA_15_PURCHASE  :  
+STR_LA_16           : Los Angeles Skyscraper 16
+STR_LA_16_PURCHASE  :  
+STR_LA_17           : Los Angeles Skyscraper 17
+STR_LA_17_PURCHASE  :  
+STR_LA_18           : Los Angeles Skyscraper 18
+STR_LA_18_PURCHASE  :  
+
+STR_SD_1            : San Diego Skyscraper 1
+STR_SD_1_PURCHASE   : San Diego's One American Plaza, the tallest building in the city. Completed in 1991. 
+STR_SD_2            : San Diego Skyscraper 2
+STR_SD_2_PURCHASE   : A skyscraper from San Diego.
+STR_SD_3A           : San Diego Skyscraper 3 (Modern)
+STR_SD_3A_PURCHASE  : A skyscraper from San Diego.
+STR_SD_3B           : San Diego Skyscraper 3 (Green)
+STR_SD_3B_PURCHASE  : A skyscraper from San Diego, reimagined as a green building.
+STR_SD_4            : San Diego Skyscraper 4
+STR_SD_4_PURCHASE   : A skyscraper from San Diego.
+STR_SD_5            : San Diego Skyscraper 5
+STR_SD_5_PURCHASE   : A skyscraper from San Diego.
+STR_SD_6            : San Diego Skyscraper 6
+STR_SD_6_PURCHASE   : San Diego's Wells Fargo Plaza, completed in 1984.
+STR_SD_7            : San Diego Skyscraper 7
+STR_SD_7_PURCHASE   : San Diego's Symphony Towers, 499m in height. Constructed in 1989.
+STR_SD_8            : San Diego Skyscraper 8
+STR_SD_8_PURCHASE   : San Diego's Imperial Bank Tower, finished in 1982.
+STR_SD_9            : San Diego Skyscraper 9
+STR_SD_9_PURCHASE   : The Executive Complex tower of San Diego, built in 1963.
+
+STR_SF_1            : San Francisco Skyscraper 1
+STR_SF_1_PURCHASE   : 
+STR_SF_2            : San Francisco Skyscraper 2
+STR_SF_2_PURCHASE   : 
+STR_SF_3            : San Francisco Skyscraper 3
+STR_SF_3_PURCHASE   : 
+STR_SF_4            : San Francisco Skyscraper 4
+STR_SF_4_PURCHASE   : 
+STR_SF_5            : San Francisco Skyscraper 5
+STR_SF_5_PURCHASE   : 
+STR_SF_6A           : San Francisco Skyscraper 6A
+STR_SF_6A_PURCHASE  : 
+STR_SF_6B           : San Francisco Skyscraper 6B
+STR_SF_6B_PURCHASE  : 
+STR_SF_7            : San Francisco Skyscraper 7
+STR_SF_7_PURCHASE   : 
+STR_SF_8            : San Francisco Skyscraper 8
+STR_SF_8_PURCHASE   : 
+STR_SF_9            : San Francisco Skyscraper 9
+STR_SF_9_PURCHASE   : 
+STR_SF_10           : San Francisco Skyscraper 10
+STR_SF_10_PURCHASE  : 
+STR_SF_11           : San Francisco Skyscraper 11
+STR_SF_11_PURCHASE  : 
+STR_SF_12           : San Francisco Skyscraper 12
+STR_SF_12_PURCHASE  : 
+STR_SF_13           : San Francisco Skyscraper 13
+STR_SF_13_PURCHASE  : 
+STR_SF_14           : San Francisco Skyscraper 14
+STR_SF_14_PURCHASE  : 
+STR_SF_15           : San Francisco Skyscraper 15
+STR_SF_15_PURCHASE  : 
+STR_SF_16           : San Francisco Skyscraper 16
+STR_SF_16_PURCHASE  : 
+STR_SF_17           : San Francisco Skyscraper 17
+STR_SF_17_PURCHASE  : 
+STR_SF_18           : San Francisco Skyscraper 18
+STR_SF_18_PURCHASE  : 
+STR_SF_19           : San Francisco Skyscraper 19
+STR_SF_19_PURCHASE  : 
+STR_SF_20           : San Francisco Skyscraper 20
+STR_SF_20_PURCHASE  : 
+STR_SF_21           : San Francisco Skyscraper 21
+STR_SF_21_PURCHASE  : 
+STR_SF_22           : San Francisco Skyscraper 22
+STR_SF_22_PURCHASE  : 
+STR_SF_23           : San Francisco Skyscraper 23
+STR_SF_23_PURCHASE  : 
+STR_SF_24           : San Francisco Skyscraper 24
+STR_SF_24_PURCHASE  : 
+STR_SF_25           : San Francisco Skyscraper 25
+STR_SF_25_PURCHASE  : 
+STR_SF_26           : San Francisco Skyscraper 26
+STR_SF_26_PURCHASE  : 
+STR_SF_27           : San Francisco Skyscraper 27
+STR_SF_27_PURCHASE  : 
+STR_SF_28           : San Francisco Skyscraper 28
+STR_SF_28_PURCHASE  : 
+STR_SF_29           : San Francisco Skyscraper 29
+STR_SF_29_PURCHASE  : 
+STR_SF_30           : San Francisco Skyscraper 30
+STR_SF_30_PURCHASE  : 
+STR_SF_31           : San Francisco Skyscraper 31
+STR_SF_31_PURCHASE  : 
+STR_SF_32           : San Francisco Skyscraper 32
+STR_SF_32_PURCHASE  : 
+STR_SF_33           : San Francisco Skyscraper 33
+STR_SF_33_PURCHASE  : 
+STR_SF_34           : San Francisco Skyscraper 34
+STR_SF_34_PURCHASE  : 
+STR_SF_35           : San Francisco Skyscraper 35
+STR_SF_35_PURCHASE  : 
+STR_SF_36           : San Francisco Skyscraper 36
+STR_SF_36_PURCHASE  : 
+STR_SF_37           : San Francisco Skyscraper 37
+STR_SF_37_PURCHASE  : 
+STR_SF_38           : San Francisco Skyscraper 38
+STR_SF_38_PURCHASE  : 
+STR_SF_39           : San Francisco Skyscraper 39
+STR_SF_39_PURCHASE  : 
+STR_SF_40           : San Francisco Skyscraper 40
+STR_SF_40_PURCHASE  : 
+STR_SF_41           : San Francisco Skyscraper 41
+STR_SF_41_PURCHASE  : 
+STR_SF_42           : San Francisco Skyscraper 42
+STR_SF_42_PURCHASE  : 
+
+STR_SFB_1           : San Francisco Block 1
+STR_SFB_1_PURCHASE  : 
+STR_SFB_2           : San Francisco Block 2
+STR_SFB_2_PURCHASE  : 
+STR_SFB_3           : San Francisco Block 3
+STR_SFB_3_PURCHASE  : 
+STR_SFB_4           : San Francisco Block 4
+STR_SFB_4_PURCHASE  : 
+STR_SFB_5           : San Francisco Block 5
+STR_SFB_5_PURCHASE  : 
+STR_SFB_6           : San Francisco Block 6
+STR_SFB_6_PURCHASE  : 
+STR_SFB_7           : San Francisco Block 7
+STR_SFB_7_PURCHASE  : 
+STR_SFB_8           : San Francisco Block 8
+STR_SFB_8_PURCHASE  : 
+STR_SFB_9           : San Francisco Block 9
+STR_SFB_9_PURCHASE  : 
+STR_SFB_10          : San Francisco Block 10
+STR_SFB_10_PURCHASE : 
+STR_SFB_11          : San Francisco Block 11
+STR_SFB_11_PURCHASE : 
+STR_SFB_12          : San Francisco Block 12
+STR_SFB_12_PURCHASE : 
+STR_SFB_13          : San Francisco Block 13
+STR_SFB_13_PURCHASE : 
+STR_SFB_14          : San Francisco Block 14
+STR_SFB_14_PURCHASE : 
